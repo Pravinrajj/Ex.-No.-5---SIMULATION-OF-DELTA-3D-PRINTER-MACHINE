@@ -60,7 +60,7 @@ A motor that has a gear attached to it, often used to drive the printer's linear
 ![delta play](https://github.com/Saravana-kumar369/Ex.-No.-5---SIMULATION-OF-DELTA-3D-PRINTER-MACHINE/assets/117925254/3abb5dc4-544e-490b-a7d6-17c9b7b315bb)
 
 
-### Name:PRAVINRAJJ
+### Name:PRAVINRAJJ GK
 ### Register Number:212222240080
 
 ## Result: 
